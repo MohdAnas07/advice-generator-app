@@ -19,7 +19,6 @@ function App() {
     getData()
   }
 
-
   return (
     <div className="app">
       <div className="main-container">
